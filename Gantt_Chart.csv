@@ -1,0 +1,11 @@
+Task,Start,End,Duration
+Kickoff & Planning,5/1/2025,5/5/2025,4
+Analisis Kebutuhan,5/6/2025,5/12/2025,6
+Desain Sistem & Arsitektur,5/13/2025,5/19/2025,6
+Desain UI/UX,5/20/2025,6/2/2025,13
+Pengembangan Frontend,6/3/2025,6/30/2025,27
+Pengembangan Backend,6/3/2025,6/30/2025,27
+Integrasi & Testing Integrasi,7/1/2025,7/7/2025,6
+Testing & QA,7/8/2025,7/21/2025,13
+Deployment & Go-Live,7/22/2025,7/24/2025,2
+Monitoring & Handover,7/25/2025,7/31/2025,6
