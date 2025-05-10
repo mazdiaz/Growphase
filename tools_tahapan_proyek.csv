@@ -1,5 +1,6 @@
-Tahap,Tools yang Digunakan
-Kickoff & Planning,"Microsoft Teams, Google Workspace, Discord"
-Analisis Kebutuhan,"Google Forms (survey), Microsoft Excel"
-Desain Sistem & Arsitektur,"Draw.io, Lucidchart"
-Desain UI/UX,Figma
+Tahap,Tools yang Digunakan, Usage
+Kickoff & Planning,"Microsoft Teams, Google Workspace, Discord", "Rapat, merencanakan pertanyaan untuk quisioner dan wawancara"
+Analisis Kebutuhan,"Google Forms (survey), Microsoft Excel", "Mencara data yang akan digunakan sebagai refrensi"
+Desain Sistem & Arsitektur,"Draw.io, Lucidchart", "Membuat sketch wireframe"
+Desain UI/UX,Figmac ,"Membuat Wireframe sementara dan revisi wireframe"
+Pengumpulan, Github, "pengumpulan semua berkan yang dibutuhkan"
