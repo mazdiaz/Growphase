@@ -1,11 +1,5 @@
-Tahap,Tools yang Umum Digunakan
-Kickoff & Planning,"Trello, Notion, Microsoft Teams, Google Workspace, Miro"
-Analisis Kebutuhan,"Google Forms (survey), Notion, Draw.io, Microsoft Excel, Zoom"
-Desain Sistem & Arsitektur,"Draw.io, Lucidchart, Enterprise Architect, Visual Paradigm"
-Desain UI/UX,"Figma, Adobe XD, Sketch, Zeplin"
-Pengembangan Frontend,"Visual Studio Code, React/Vue/Angular, Git, npm, Postman"
-Pengembangan Backend,"Node.js/Django/Laravel, PostgreSQL/MySQL, Git, Postman"
-Integrasi & Testing Integrasi,"Jenkins, GitLab CI/CD, Postman, Swagger"
-Testing & QA,"Selenium, JMeter, Jest, Cypress, TestRail"
-Deployment & Go-Live,"Docker, Kubernetes, GitHub Actions, AWS/GCP/Azure"
-Monitoring & Handover,"Grafana, Prometheus, New Relic, Google Docs (handover)"
+Tahap,Tools yang Digunakan
+Kickoff & Planning,"Microsoft Teams, Google Workspace, Discord"
+Analisis Kebutuhan,"Google Forms (survey), Microsoft Excel"
+Desain Sistem & Arsitektur,"Draw.io, Lucidchart"
+Desain UI/UX,Figma
