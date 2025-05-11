@@ -1,0 +1,9 @@
+No,Usability Goal,Tujuan
+1,Waktu Penyelesaian Tugas Dasar,"Pengguna dapat menyelesaikan task inti (mis. membuat akun, membuat campaign, berinvestasi) dengan cepat dan lancar."
+2,Tingkat Kesalahan (Error Rate),Minimalkan kesalahan pengguna saat mengisi form atau melakukan transaksi.
+3,Learnability (Kemudahan Belajar),Pengguna baru dapat memahami antarmuka dan fungsi dasar tanpa bantuan eksternal.
+4,Efisiensi Navigasi,"Pengguna berpengalaman dapat berpindah antar modul (dashboard, daftar proyek, ROI) dengan lancar."
+5,Satisfaction (Kepuasan Pengguna),Tingkat kepuasan pengguna terhadap pengalaman keseluruhan platform.
+6,Kejelasan Informasi,"Informasi penting (proyeksi ROI, status verifikasi, biaya) tersaji dengan mudah dipahami."
+7,Responsiveness & Stability,Platform memberikan feedback cepat dan bebas crash/timeout.
+8,Accessibility & Mobile-Friendliness,Antarmuka dapat diakses dengan baik di desktop maupun perangkat mobile.
