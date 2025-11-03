@@ -1,0 +1,31 @@
+website growphase
+- fukus ke arah crowdfunding bagaimana sebuah website dapat menarik ke satu barang atau page.
+- fokus ke arah mempermudah user crowdfund dan juga keamanan imvestasi tersebut.
+- fokus ke arah memvalidasi bagaimana pengusaha dapat lebih detail memberikan informasi ide dagangan.
+
+
+activities and subactivities , method
+focus and topic
+research objective
+participant and context 
+
+
+Research Objective
+- To develop a system feature that enables entrepreneurs to validate and present their earnings and expenditures automatically.
+- To enhance investor trust by providing transparent and verifiable insights into the entrepreneur’s business performance.
+- To improve the overall efficiency and transparency of the investment process between entrepreneurs and investors through the proposed platform.
+
+
+Focus and Topics
+This research focuses on improving the investment process by strengthening transparency between entrepreneurs and investors. On the investor side, the study aims to enhance trust by ensuring that entrepreneurs can provide verifiable proof of their business performance. On the entrepreneur side, the focus is on simplifying the validation process through a platform feature that automatically tracks and confirms their earnings and expenditures. This approach allows investors to clearly monitor business progress while reducing the reporting burden for entrepreneurs.
+
+
+Tujuan Penelitian
+- Mengembangkan fitur sistem yang memungkinkan wirausahawan untuk memvalidasi dan menampilkan data pendapatan serta pengeluaran mereka secara otomatis.(tak di masukkan dulu)
+
+- Meningkatkan kepercayaan investor dengan menyediakan informasi yang transparan dan dapat diverifikasi mengenai kinerja bisnis wirausahawan.
+
+- Meningkatkan efisiensi dan transparansi keseluruhan dalam proses investasi antara wirausahawan dan investor melalui platform yang diusulkan.
+
+Fokus dan Topik Penelitian
+Penelitian ini berfokus pada peningkatan proses investasi dengan memperkuat transparansi antara wirausahawan dan investor. Dari sisi investor, penelitian ini bertujuan untuk meningkatkan tingkat kepercayaan dengan memastikan bahwa wirausahawan dapat memberikan bukti yang dapat diverifikasi terkait kinerja bisnis mereka. Sementara dari sisi wirausahawan, fokus penelitian terletak pada penyederhanaan proses validasi melalui fitur platform yang secara otomatis melacak dan mengonfirmasi data pendapatan serta pengeluaran. Pendekatan ini memungkinkan investor untuk memantau perkembangan bisnis dengan lebih jelas, sekaligus mengurangi beban pelaporan bagi wirausahawan.
