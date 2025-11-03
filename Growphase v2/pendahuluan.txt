@@ -1,11 +1,1 @@
-Pendahuluan
 
-Dalam era digital, keberadaan platform pendanaan alternatif telah membuka peluang besar bagi pelaku usaha kecil dan menengah (UKM) untuk memperoleh akses modal yang sebelumnya terbatas melalui lembaga perbankan tradisional. Namun, tantangan utama yang masih menghantui adalah bagaimana menciptakan tingkat kepercayaan yang memadai antara wirausahawan dan investor — khususnya ketika investor menuntut bukti nyata atas performa bisnis, sedangkan wirausahawan ingin proses pelaporan dan verifikasi yang ringan dan efisien.
-
-Penelitian sebelumnya menunjukkan bahwa transparansi informasi memiliki dampak positif signifikan dalam meningkatkan keyakinan para pemberi dana (funders) terhadap platform pendanaan. Sebagai contoh, dalam studi terhadap tiga perusahaan P2P lending syariah di Indonesia ditemukan bahwa praktik transparansi informasi secara langsung meningkatkan kepercayaan investor. 
-
-Selain itu, penelitian yang mengkaji platform crowdfunding berbasis blockchain di Indonesia menegaskan bahwa unsur transparansi dan keamanan (security) secara signifikan mempengaruhi keberhasilan platform, sementara kepercayaan (trust) walau penting, efeknya relatif lebih lemah dibanding dua unsur lainnya. 
-
-Konteks ini sangat relevan dengan proyek Anda, yakni pengembangan platform GrowPhase yang bertujuan menghubungkan wirausahawan UKM dengan investor ritel melalui mekanisme yang lebih terbuka dan otomatis. Dari sisi investor, proyek ini menekankan bahwa wirausahawan mesti menyediakan bukti yang dapat diverifikasi terkait pendapatan, pengeluaran maupun perkembangan bisnis. Dari sisi wirausahawan, proyek ini menitikberatkan pada penyederhanaan proses validasi melalui fitur yang secara otomatis melacak dan mengonfirmasi data operasional bisnis—sehingga beban pelaporan dapat dikurangi, dan transparansi antarmuka (dashboard) bagi investor dapat diperkuat.
-
-Dengan pendekatan tersebut, diharapkan terjadi peningkatan kepercayaan antara kedua pihak: investor memperoleh visibilitas yang lebih jelas terhadap kinerja bisnis yang mereka danai, sementara wirausahawan menikmati proses pendanaan yang lebih ringan dan berbasis bukti. Penelitian ini kemudian berfokus pada bagaimana mekanisme verifikasi otomatis dan pelaporan real-time pada platform dapat menurunkan asimetri informasi serta memperkuat struktur kepercayaan dalam ekosistem pendanaan digital.
